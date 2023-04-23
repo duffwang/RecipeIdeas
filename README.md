@@ -13,3 +13,8 @@ This app must be deployed with a `REACT_APP_OPENAI` env variable containing an O
 To prevent misuse, you should also set a `REACT_APP_RECIPE_PASSWORD` which will be required to use the app.  
 
 It can be deployed using the Docker image.
+
+### Screenshots
+
+<img src="https://github.com/duffwang/RecipeIdeas/blob/main/screenshots/1.png" width="500">
+<img src="https://github.com/duffwang/RecipeIdeas/blob/main/screenshots/2.png" width="500">
