@@ -1,6 +1,6 @@
 ### Recipe Ideas Bot
 
-!(src/logo.png)  
+!(https://github.com/duffwang/RecipeIdeas/blob/main/src/logo.png)  
 
 `Recipe Ideas Bot` will give you recipe ideas based on the ingredients you have in your fridge.  
 
