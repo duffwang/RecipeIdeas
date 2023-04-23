@@ -1,6 +1,6 @@
 ### Recipe Ideas Bot
 
-![robot image](https://github.com/duffwang/RecipeIdeas/blob/main/src/logo.png | width=100)
+<img src="[https://your-image-url.type](https://github.com/duffwang/RecipeIdeas/blob/main/src/logo.png)" width="100">
 
 `Recipe Ideas Bot` will give you recipe ideas based on the ingredients you have in your fridge.  
 
